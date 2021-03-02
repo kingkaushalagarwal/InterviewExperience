@@ -1,0 +1,13 @@
+Amazon Interview Experience
+Interview Round 1- 
+ 1- Subarray sum equal to K. When only positive integers are present. 
+ 2- What cases we need to taken care for negative integers.
+ 3- zig-zag view of binary tree.
+ 4- maximum absolute difference between absoulte value of ancestor and child node.
+ 
+Interview Round 2-
+1- Given array of prices of toy and given amount of money. You have to buy three toys. Find how many ways we can buy the toys.
+    (a+b+c<=amount where a,b,c present in array.)
+2- Lexographical smallest word from 
+
+                
